@@ -1,0 +1,14 @@
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Release\net8.0\linux-x64\LambdaAuthorizers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Release\net8.0\linux-x64\LambdaAuthorizers.AssemblyInfoInputs.cache
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Release\net8.0\linux-x64\LambdaAuthorizers.AssemblyInfo.cs
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Release\net8.0\linux-x64\LambdaAuthorizers.csproj.CoreCompileInputs.cache
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\bin\Release\net8.0\linux-x64\LambdaAuthorizers.deps.json
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\bin\Release\net8.0\linux-x64\LambdaAuthorizers.runtimeconfig.json
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\bin\Release\net8.0\linux-x64\LambdaAuthorizers.dll
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\bin\Release\net8.0\linux-x64\LambdaAuthorizers.pdb
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Release\net8.0\linux-x64\LambdaAuthorizers.csproj.AssemblyReference.cache
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Release\net8.0\linux-x64\LambdaAuthorizers.dll
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Release\net8.0\linux-x64\refint\LambdaAuthorizers.dll
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Release\net8.0\linux-x64\LambdaAuthorizers.pdb
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Release\net8.0\linux-x64\LambdaAuthorizers.genruntimeconfig.cache
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Release\net8.0\linux-x64\ref\LambdaAuthorizers.dll

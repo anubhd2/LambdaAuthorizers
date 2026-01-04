@@ -1,0 +1,12 @@
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\bin\Debug\net8.0\LambdaAuthorizers.deps.json
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\bin\Debug\net8.0\LambdaAuthorizers.dll
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\bin\Debug\net8.0\LambdaAuthorizers.pdb
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Debug\net8.0\LambdaAuthorizers.csproj.AssemblyReference.cache
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Debug\net8.0\LambdaAuthorizers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Debug\net8.0\LambdaAuthorizers.AssemblyInfoInputs.cache
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Debug\net8.0\LambdaAuthorizers.AssemblyInfo.cs
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Debug\net8.0\LambdaAuthorizers.csproj.CoreCompileInputs.cache
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Debug\net8.0\LambdaAuthorizers.dll
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Debug\net8.0\refint\LambdaAuthorizers.dll
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Debug\net8.0\LambdaAuthorizers.pdb
+C:\Udemy\LambdaAuthorizers\LambdaAuthorizers\obj\Debug\net8.0\ref\LambdaAuthorizers.dll
